@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/theayushgupta21/Leet-Code-/tree/master/0016-3sum-closest) |
+| [0209-minimum-size-subarray-sum](https://github.com/theayushgupta21/Leet-Code-/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,5 +28,14 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/theayushgupta21/Leet-Code-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/theayushgupta21/Leet-Code-/tree/master/0424-longest-repeating-character-replacement) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/theayushgupta21/Leet-Code-/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/theayushgupta21/Leet-Code-/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
