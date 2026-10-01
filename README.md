@@ -8,6 +8,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/theayushgupta21/Leet-Code-/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/theayushgupta21/Leet-Code-/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/theayushgupta21/Leet-Code-/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0076-minimum-window-substring) |
@@ -57,8 +58,13 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0010-regular-expression-matching) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
