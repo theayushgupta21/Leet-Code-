@@ -10,6 +10,7 @@
 | [0006-zigzag-conversion](https://github.com/theayushgupta21/Leet-Code-/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/theayushgupta21/Leet-Code-/tree/master/0012-integer-to-roman) |
+| [0044-wildcard-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/theayushgupta21/Leet-Code-/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/theayushgupta21/Leet-Code-/tree/master/0424-longest-repeating-character-replacement) |
@@ -59,6 +60,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0044-wildcard-matching) |
 ## Manacher
 |  |
 | ------- |
@@ -67,4 +69,9 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0010-regular-expression-matching) |
+| [0044-wildcard-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0044-wildcard-matching) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
