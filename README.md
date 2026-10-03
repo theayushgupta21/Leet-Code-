@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/theayushgupta21/Leet-Code-/tree/master/0016-3sum-closest) |
+| [0059-spiral-matrix-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0059-spiral-matrix-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/theayushgupta21/Leet-Code-/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
 |  |
@@ -74,4 +75,12 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0044-wildcard-matching) |
+## Matrix
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0059-spiral-matrix-ii) |
+## Simulation
+|  |
+| ------- |
+| [0059-spiral-matrix-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0059-spiral-matrix-ii) |
 <!---LeetCode Topics End-->
