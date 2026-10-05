@@ -14,6 +14,7 @@
 | [0058-length-of-last-word](https://github.com/theayushgupta21/Leet-Code-/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/theayushgupta21/Leet-Code-/tree/master/0424-longest-repeating-character-replacement) |
+| [0856-score-of-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0856-score-of-parentheses) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/theayushgupta21/Leet-Code-/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Array
 |  |
@@ -98,4 +99,12 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/theayushgupta21/Leet-Code-/tree/master/0037-sudoku-solver) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
