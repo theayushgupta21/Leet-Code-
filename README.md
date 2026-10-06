@@ -65,6 +65,7 @@
 | [0005-longest-palindromic-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0044-wildcard-matching) |
+| [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
 ## Manacher
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/theayushgupta21/Leet-Code-/tree/master/0037-sudoku-solver) |
+| [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -107,4 +109,16 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0856-score-of-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
