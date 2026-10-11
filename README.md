@@ -13,6 +13,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/theayushgupta21/Leet-Code-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0044-wildcard-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/theayushgupta21/Leet-Code-/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/theayushgupta21/Leet-Code-/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/theayushgupta21/Leet-Code-/tree/master/0424-longest-repeating-character-replacement) |
 | [0856-score-of-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0856-score-of-parentheses) |
@@ -23,6 +24,7 @@
 | [0016-3sum-closest](https://github.com/theayushgupta21/Leet-Code-/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/theayushgupta21/Leet-Code-/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/theayushgupta21/Leet-Code-/tree/master/0068-text-justification) |
 | [0134-gas-station](https://github.com/theayushgupta21/Leet-Code-/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/theayushgupta21/Leet-Code-/tree/master/0209-minimum-size-subarray-sum) |
 ## Two Pointers
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0059-spiral-matrix-ii) |
+| [0068-text-justification](https://github.com/theayushgupta21/Leet-Code-/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/theayushgupta21/Leet-Code-/tree/master/0258-add-digits) |
 ## Backtracking
 |  |
