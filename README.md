@@ -11,6 +11,7 @@
 | [0010-regular-expression-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/theayushgupta21/Leet-Code-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/theayushgupta21/Leet-Code-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/theayushgupta21/Leet-Code-/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/theayushgupta21/Leet-Code-/tree/master/0049-group-anagrams) |
@@ -76,6 +77,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0044-wildcard-matching) |
 | [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
 ## Manacher
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/theayushgupta21/Leet-Code-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/theayushgupta21/Leet-Code-/tree/master/0037-sudoku-solver) |
 | [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
 ## Algorithm X
@@ -125,6 +128,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0856-score-of-parentheses) |
 ## Tree
 |  |
