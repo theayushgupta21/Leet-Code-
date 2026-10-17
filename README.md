@@ -17,6 +17,7 @@
 | [0049-group-anagrams](https://github.com/theayushgupta21/Leet-Code-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/theayushgupta21/Leet-Code-/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/theayushgupta21/Leet-Code-/tree/master/0068-text-justification) |
+| [0072-edit-distance](https://github.com/theayushgupta21/Leet-Code-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/theayushgupta21/Leet-Code-/tree/master/0424-longest-repeating-character-replacement) |
 | [0856-score-of-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0856-score-of-parentheses) |
@@ -80,6 +81,7 @@
 | [0010-regular-expression-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0022-generate-parentheses) |
 | [0044-wildcard-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0044-wildcard-matching) |
+| [0072-edit-distance](https://github.com/theayushgupta21/Leet-Code-/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
 ## Manacher
 |  |
