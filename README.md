@@ -12,6 +12,7 @@
 | [0012-integer-to-roman](https://github.com/theayushgupta21/Leet-Code-/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/theayushgupta21/Leet-Code-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/theayushgupta21/Leet-Code-/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/theayushgupta21/Leet-Code-/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/theayushgupta21/Leet-Code-/tree/master/0049-group-anagrams) |
