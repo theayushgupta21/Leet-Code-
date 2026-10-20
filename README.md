@@ -29,6 +29,7 @@
 | [0016-3sum-closest](https://github.com/theayushgupta21/Leet-Code-/tree/master/0016-3sum-closest) |
 | [0037-sudoku-solver](https://github.com/theayushgupta21/Leet-Code-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/theayushgupta21/Leet-Code-/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/theayushgupta21/Leet-Code-/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/theayushgupta21/Leet-Code-/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/theayushgupta21/Leet-Code-/tree/master/0068-text-justification) |
@@ -118,6 +119,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/theayushgupta21/Leet-Code-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/theayushgupta21/Leet-Code-/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/theayushgupta21/Leet-Code-/tree/master/0046-permutations) |
 | [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
 ## Algorithm X
 |  |
