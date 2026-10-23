@@ -36,6 +36,7 @@
 | [0068-text-justification](https://github.com/theayushgupta21/Leet-Code-/tree/master/0068-text-justification) |
 | [0134-gas-station](https://github.com/theayushgupta21/Leet-Code-/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/theayushgupta21/Leet-Code-/tree/master/0209-minimum-size-subarray-sum) |
+| [0407-trapping-rain-water-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0407-trapping-rain-water-ii) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/theayushgupta21/Leet-Code-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/theayushgupta21/Leet-Code-/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
@@ -111,6 +112,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/theayushgupta21/Leet-Code-/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0059-spiral-matrix-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0407-trapping-rain-water-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -171,4 +173,12 @@
 |  |
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/theayushgupta21/Leet-Code-/tree/master/3644-maximum-k-to-sort-a-permutation) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0407-trapping-rain-water-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0407-trapping-rain-water-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0407-trapping-rain-water-ii) |
 <!---LeetCode Topics End-->
