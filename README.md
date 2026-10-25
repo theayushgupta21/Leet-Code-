@@ -17,6 +17,7 @@
 | [0044-wildcard-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/theayushgupta21/Leet-Code-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/theayushgupta21/Leet-Code-/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/theayushgupta21/Leet-Code-/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/theayushgupta21/Leet-Code-/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/theayushgupta21/Leet-Code-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0076-minimum-window-substring) |
@@ -82,6 +83,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/theayushgupta21/Leet-Code-/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/theayushgupta21/Leet-Code-/tree/master/0043-multiply-strings) |
+| [0067-add-binary](https://github.com/theayushgupta21/Leet-Code-/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/theayushgupta21/Leet-Code-/tree/master/0258-add-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/theayushgupta21/Leet-Code-/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
@@ -118,6 +120,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/theayushgupta21/Leet-Code-/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/theayushgupta21/Leet-Code-/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/theayushgupta21/Leet-Code-/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/theayushgupta21/Leet-Code-/tree/master/0258-add-digits) |
 ## Backtracking
@@ -172,6 +175,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/theayushgupta21/Leet-Code-/tree/master/0067-add-binary) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/theayushgupta21/Leet-Code-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Breadth-First Search
 |  |
