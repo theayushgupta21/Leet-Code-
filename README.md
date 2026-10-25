@@ -38,6 +38,7 @@
 | [0134-gas-station](https://github.com/theayushgupta21/Leet-Code-/tree/master/0134-gas-station) |
 | [0209-minimum-size-subarray-sum](https://github.com/theayushgupta21/Leet-Code-/tree/master/0209-minimum-size-subarray-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0407-trapping-rain-water-ii) |
+| [1254-number-of-closed-islands](https://github.com/theayushgupta21/Leet-Code-/tree/master/1254-number-of-closed-islands) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/theayushgupta21/Leet-Code-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3886-sum-of-sortable-integers](https://github.com/theayushgupta21/Leet-Code-/tree/master/3886-sum-of-sortable-integers) |
 ## Two Pointers
@@ -115,6 +116,7 @@
 | [0037-sudoku-solver](https://github.com/theayushgupta21/Leet-Code-/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0059-spiral-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0407-trapping-rain-water-ii) |
+| [1254-number-of-closed-islands](https://github.com/theayushgupta21/Leet-Code-/tree/master/1254-number-of-closed-islands) |
 ## Simulation
 |  |
 | ------- |
@@ -181,8 +183,17 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0407-trapping-rain-water-ii) |
+| [1254-number-of-closed-islands](https://github.com/theayushgupta21/Leet-Code-/tree/master/1254-number-of-closed-islands) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0407-trapping-rain-water-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/theayushgupta21/Leet-Code-/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/theayushgupta21/Leet-Code-/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
