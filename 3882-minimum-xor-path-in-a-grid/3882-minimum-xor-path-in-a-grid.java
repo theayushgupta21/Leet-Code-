@@ -1,0 +1,24 @@
+class Solution {
+    public int minCost(int[][] grid) {
+        int m = grid.length, n = grid[0].length;
+        int SIZE = 1024;
+
+        boolean[][][] reach = new boolean[m][n][SIZE];
+        reach[0][0][grid[0][0]] = true;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                for (int x = 0; x < SIZE; x++) {
+                    if (!reach[i][j][x]) continue;
+                    if (i + 1 < m) reach[i + 1][j][x ^ grid[i + 1][j]] = true;
+                    if (j + 1 < n) reach[i][j + 1][x ^ grid[i][j + 1]] = true;
+                }
+            }
+        }
+
+        for (int x = 0; x < SIZE; x++) {
+            if (reach[m - 1][n - 1][x]) return x;
+        }
+        return -1;
+    }
+}
