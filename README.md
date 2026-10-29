@@ -47,6 +47,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0005-longest-palindromic-substring) |
 | [0016-3sum-closest](https://github.com/theayushgupta21/Leet-Code-/tree/master/0016-3sum-closest) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/theayushgupta21/Leet-Code-/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Sorting
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/theayushgupta21/Leet-Code-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0147-insertion-sort-list](https://github.com/theayushgupta21/Leet-Code-/tree/master/0147-insertion-sort-list) |
 ## Enumeration
 |  |
