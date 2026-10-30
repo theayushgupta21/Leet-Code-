@@ -21,6 +21,7 @@
 | [0068-text-justification](https://github.com/theayushgupta21/Leet-Code-/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/theayushgupta21/Leet-Code-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/theayushgupta21/Leet-Code-/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/theayushgupta21/Leet-Code-/tree/master/0424-longest-repeating-character-replacement) |
 | [0856-score-of-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0856-score-of-parentheses) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/theayushgupta21/Leet-Code-/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
@@ -36,6 +37,7 @@
 | [0059-spiral-matrix-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/theayushgupta21/Leet-Code-/tree/master/0068-text-justification) |
 | [0134-gas-station](https://github.com/theayushgupta21/Leet-Code-/tree/master/0134-gas-station) |
+| [0139-word-break](https://github.com/theayushgupta21/Leet-Code-/tree/master/0139-word-break) |
 | [0209-minimum-size-subarray-sum](https://github.com/theayushgupta21/Leet-Code-/tree/master/0209-minimum-size-subarray-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0407-trapping-rain-water-ii) |
 | [1254-number-of-closed-islands](https://github.com/theayushgupta21/Leet-Code-/tree/master/1254-number-of-closed-islands) |
@@ -64,6 +66,7 @@
 | [0041-first-missing-positive](https://github.com/theayushgupta21/Leet-Code-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/theayushgupta21/Leet-Code-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/theayushgupta21/Leet-Code-/tree/master/0139-word-break) |
 | [0424-longest-repeating-character-replacement](https://github.com/theayushgupta21/Leet-Code-/tree/master/0424-longest-repeating-character-replacement) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/theayushgupta21/Leet-Code-/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Sliding Window
@@ -98,6 +101,7 @@
 | [0044-wildcard-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/theayushgupta21/Leet-Code-/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0139-word-break](https://github.com/theayushgupta21/Leet-Code-/tree/master/0139-word-break) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/theayushgupta21/Leet-Code-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
@@ -202,4 +206,16 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/theayushgupta21/Leet-Code-/tree/master/1254-number-of-closed-islands) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/theayushgupta21/Leet-Code-/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/theayushgupta21/Leet-Code-/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/theayushgupta21/Leet-Code-/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
