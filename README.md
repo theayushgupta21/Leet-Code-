@@ -90,6 +90,7 @@
 | [0012-integer-to-roman](https://github.com/theayushgupta21/Leet-Code-/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/theayushgupta21/Leet-Code-/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/theayushgupta21/Leet-Code-/tree/master/0067-add-binary) |
+| [0096-unique-binary-search-trees](https://github.com/theayushgupta21/Leet-Code-/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/theayushgupta21/Leet-Code-/tree/master/0258-add-digits) |
 | [3886-sum-of-sortable-integers](https://github.com/theayushgupta21/Leet-Code-/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
@@ -101,6 +102,7 @@
 | [0044-wildcard-matching](https://github.com/theayushgupta21/Leet-Code-/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/theayushgupta21/Leet-Code-/tree/master/0072-edit-distance) |
 | [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/theayushgupta21/Leet-Code-/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/theayushgupta21/Leet-Code-/tree/master/0139-word-break) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/theayushgupta21/Leet-Code-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
@@ -162,14 +164,17 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/theayushgupta21/Leet-Code-/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/theayushgupta21/Leet-Code-/tree/master/0096-unique-binary-search-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/theayushgupta21/Leet-Code-/tree/master/0096-unique-binary-search-trees) |
 ## Number Theory
 |  |
 | ------- |
