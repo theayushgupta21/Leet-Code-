@@ -33,6 +33,7 @@
 | [0037-sudoku-solver](https://github.com/theayushgupta21/Leet-Code-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/theayushgupta21/Leet-Code-/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/theayushgupta21/Leet-Code-/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/theayushgupta21/Leet-Code-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/theayushgupta21/Leet-Code-/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0059-spiral-matrix-ii) |
 | [0068-text-justification](https://github.com/theayushgupta21/Leet-Code-/tree/master/0068-text-justification) |
@@ -91,6 +92,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/theayushgupta21/Leet-Code-/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/theayushgupta21/Leet-Code-/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/theayushgupta21/Leet-Code-/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/theayushgupta21/Leet-Code-/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/theayushgupta21/Leet-Code-/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/theayushgupta21/Leet-Code-/tree/master/0258-add-digits) |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/theayushgupta21/Leet-Code-/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/theayushgupta21/Leet-Code-/tree/master/0048-rotate-image) |
 | [0059-spiral-matrix-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0059-spiral-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0407-trapping-rain-water-ii) |
 | [1254-number-of-closed-islands](https://github.com/theayushgupta21/Leet-Code-/tree/master/1254-number-of-closed-islands) |
