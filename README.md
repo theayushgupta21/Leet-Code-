@@ -70,6 +70,7 @@
 | [0049-group-anagrams](https://github.com/theayushgupta21/Leet-Code-/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/theayushgupta21/Leet-Code-/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/theayushgupta21/Leet-Code-/tree/master/0139-word-break) |
+| [0264-ugly-number-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0264-ugly-number-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/theayushgupta21/Leet-Code-/tree/master/0424-longest-repeating-character-replacement) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/theayushgupta21/Leet-Code-/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
 ## Sliding Window
@@ -96,6 +97,7 @@
 | [0067-add-binary](https://github.com/theayushgupta21/Leet-Code-/tree/master/0067-add-binary) |
 | [0096-unique-binary-search-trees](https://github.com/theayushgupta21/Leet-Code-/tree/master/0096-unique-binary-search-trees) |
 | [0258-add-digits](https://github.com/theayushgupta21/Leet-Code-/tree/master/0258-add-digits) |
+| [0264-ugly-number-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0264-ugly-number-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/theayushgupta21/Leet-Code-/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
@@ -108,6 +110,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/theayushgupta21/Leet-Code-/tree/master/0096-unique-binary-search-trees) |
 | [0139-word-break](https://github.com/theayushgupta21/Leet-Code-/tree/master/0139-word-break) |
+| [0264-ugly-number-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0264-ugly-number-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/theayushgupta21/Leet-Code-/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
@@ -208,6 +211,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/theayushgupta21/Leet-Code-/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0264-ugly-number-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0407-trapping-rain-water-ii) |
 ## Depth-First Search
 |  |
