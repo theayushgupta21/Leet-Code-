@@ -43,6 +43,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/theayushgupta21/Leet-Code-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/theayushgupta21/Leet-Code-/tree/master/0407-trapping-rain-water-ii) |
 | [1254-number-of-closed-islands](https://github.com/theayushgupta21/Leet-Code-/tree/master/1254-number-of-closed-islands) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/theayushgupta21/Leet-Code-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/theayushgupta21/Leet-Code-/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/theayushgupta21/Leet-Code-/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/theayushgupta21/Leet-Code-/tree/master/3886-sum-of-sortable-integers) |
@@ -80,6 +81,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/theayushgupta21/Leet-Code-/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/theayushgupta21/Leet-Code-/tree/master/0424-longest-repeating-character-replacement) |
 | [3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i](https://github.com/theayushgupta21/Leet-Code-/tree/master/3297-count-substrings-that-can-be-rearranged-to-contain-a-string-i) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/theayushgupta21/Leet-Code-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -163,6 +165,7 @@
 |  |
 | ------- |
 | [0856-score-of-parentheses](https://github.com/theayushgupta21/Leet-Code-/tree/master/0856-score-of-parentheses) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/theayushgupta21/Leet-Code-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -241,4 +244,20 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/theayushgupta21/Leet-Code-/tree/master/0215-kth-largest-element-in-an-array) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/theayushgupta21/Leet-Code-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/theayushgupta21/Leet-Code-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/theayushgupta21/Leet-Code-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/theayushgupta21/Leet-Code-/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
